@@ -30,7 +30,7 @@ def main():
 
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
-    st.markdown("<h1 style='text-align: center ; color: black;'>Classification App</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center ; color: black;'>Machine Learning App</h1>", unsafe_allow_html=True)
     st.markdown("<h3 style='text-align: center ; color: black;'><strong>Creating your prediction app  </h3>", unsafe_allow_html=True)
 
 
