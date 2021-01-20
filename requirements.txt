@@ -1,2 +1,5 @@
+streamlit==0.73
+pandas
+joblib
 xlsxwriter
 xlrd
