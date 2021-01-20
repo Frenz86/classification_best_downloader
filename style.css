@@ -1,0 +1,8 @@
+body {
+    background-color: #b2f0f5;
+	opacity: 0.5;
+}
+.fullScreenFrame > div {
+    display: flex;
+    justify-content: center;
+}
