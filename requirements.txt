@@ -4,3 +4,4 @@ joblib
 xlsxwriter
 xlrd
 openpyxl
+scikit-learn
