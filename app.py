@@ -26,6 +26,7 @@ def get_table_download_link(df):
 
 def main():
     st.button("Re-run")
+    st.markdown("Inserire un dataset con 5 colonne")
 
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
